@@ -3,11 +3,7 @@
 //+ Driver with `name`, `age`, and `experience` properties
 //+ PickupLocation with `address` and `city` properties
 
-function Scooter(){
-  
-}
 
-new Scooter(year, color, model);
 
 function Scooter(year, color, model){
   this.year = year;
